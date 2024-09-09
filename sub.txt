@@ -2,4 +2,5 @@ vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedte
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy13cy11c2VyMDIiLAogICJhZGQiOiAic3BlZWR0ZXN0c2VydmVyc29mdDk4c2VydmVyLnNwZWVkdGVzdHNvZnQ5OC5pciIsCiAgInBvcnQiOiA4NDQzLAogICJpZCI6ICI3YzczNmIzNi1kMjRkLTRiNzEtYjFiZi0xYjVjYjliOGQ1NTQiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJwYXRoIjogIi9zZGZzZGZkIiwKICAiaG9zdCI6ICJzcGVlZHRlc3RzZXJ2ZXJzb2Z0OThzZXJ2ZXIuc3BlZWR0ZXN0c29mdDk4LmlyIgp9
 vless://70c20894-b14a-4096-85fa-6f717025b130@zula.ir:443?encryption=none&security=tls&sni=pages.dev&fp=randomized&type=ws&host=freenet-cel.pages.dev&path=%2F%3Fed%3D2048#freenet-user03
 vless://70c20894-b14a-4096-85fa-6f717025b130@zula.ir:8443?encryption=none&security=tls&sni=pages.dev&fp=randomized&type=ws&host=freenet-cel.pages.dev&path=%2F%3Fed%3D2048#freenet-user04
-
+vless://047c2ec1-0ded-4fc5-9a16-681197a2731d@www.speedtest.net:443?encryption=none&security=tls&sni=pages.dev&fp=randomized&type=ws&host=freenet-48w.pages.dev&path=%2F%3Fed%3D2048#freenet-user05
+vless://047c2ec1-0ded-4fc5-9a16-681197a2731d@www.speedtest.net:2096?encryption=none&security=tls&sni=pages.dev&fp=randomized&type=ws&host=freenet-48w.pages.dev&path=%2F%3Fed%3D2048#freenet-user06
