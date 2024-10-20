@@ -16,3 +16,5 @@ vless://70c20894-b14a-4096-85fa-6f717025b130@freenet-cel.pages.dev:443?encryptio
 vless://70c20894-b14a-4096-85fa-6f717025b130@www.zula.ir:443?encryption=none&security=tls&sni=freenet-cel.pages.dev&fp=randomized&type=ws&host=freenet-cel.pages.dev&path=%2F%3Fed%3D2048#freenet-user16
 vless://047c2ec1-0ded-4fc5-9a16-681197a2731d@freenet-48w.pages.dev:443?encryption=none&security=tls&sni=freenet-48w.pages.dev&fp=randomized&type=ws&host=freenet-48w.pages.dev&path=%2F%3Fed%3D2048#freenet-user17
 vless://047c2ec1-0ded-4fc5-9a16-681197a2731d@www.speedtest.net:443?encryption=none&security=tls&sni=freenet-48w.pages.dev&fp=randomized&type=ws&host=freenet-48w.pages.dev&path=%2F%3Fed%3D2048#freenet-user18
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@pbp-ake.pages.dev:443?encryption=none&security=tls&sni=PbP-akE.pages.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=pbp-ake.pages.dev&path=%2FmFBKFae58DbyH6GA%3Fed%3D2560#bpb-user19
+trojan://bpb-trojan@pbp-ake.pages.dev:443?security=tls&sni=PbP-akE.pages.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=pbp-ake.pages.dev&path=%2FtrmFBKFae58DbyH6GA%3Fed%3D2560#bpb-user20
