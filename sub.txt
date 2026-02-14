@@ -26,7 +26,6 @@ vless://574af320-e55a-407c-8db2-53c66f5c1513@104.17.74.206:443?encryption=none&s
 vless://574af320-e55a-407c-8db2-53c66f5c1513@172.64.152.23:443?encryption=none&security=tls&sni=sammytech.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=sammytech.live&path=%2Fvideo&mode=auto#SammyTech-Split3-clone
 vless://e473bc07-9831-4c63-9317-a97fb0b8a3cf@172.64.152.23:443?encryption=none&security=tls&sni=iranmonitor.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=iranmonitor.live&path=%2Frandom#IranMonitor-Clean5-clone
 vless://1e7f9ff1-89a7-4565-9e6c-ebf7ad2a9d03@172.64.152.23:443?encryption=none&security=tls&sni=eric.lasersabzetobokontukunet.shop&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=eric.lasersabzetobokontukunet.shop&path=%2Fgorbeh#USA
-vless://6233c7bf-1562-47a8-b9f8-ad842a40f089@104.18.32.42:443?encryption=none&security=tls&sni=samantech.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=samantech.live&path=%2Frandom#SamanTechRoxi-Clean4
-vless://6233c7bf-1562-47a8-b9f8-ad842a40f089@104.18.33.45:443?encryption=none&security=tls&sni=samantech.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=samantech.live&path=%2Frandom#SamanTechRoxi-Clean2
-vless://6233c7bf-1562-47a8-b9f8-ad842a40f089@104.18.32.47:443?encryption=none&security=tls&sni=samantech.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=samantech.live&path=%2Frandom#SamanTechRoxi-Clean5
+vless://6233c7bf-1562-47a8-b9f8-ad842a40f089@104.18.32.42:443?encryption=none&security=tls&sni=samantech.live&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=samantech.live&path=%2Frandom#SamanTechRoxi-Clean
+
 
